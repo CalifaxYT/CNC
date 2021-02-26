@@ -1,1 +1,1 @@
-bluescreen
+killprocess
