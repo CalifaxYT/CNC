@@ -1,1 +1,1 @@
-bluescreen
+browser https://google.com
